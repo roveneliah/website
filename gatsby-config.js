@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    name: `CXZOO`,
+    name: `about me`,
     title: `Eli Hanover`,
-    date: `Eli Hanover`,
+    date: `v2020`,
   },
   plugins: [
     "gatsby-plugin-mdx",
